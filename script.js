@@ -1,4 +1,4 @@
-const clientId = "8163f2d34eca4b7a93c701867c8af1cf";
+const clientId = "0fc1abe6ec4a4982995dcbd92a15f85b";
 const redirectUri = window.location.origin;
 
 const artists = ["BTS","RM","Jin","Agust D","j-hope","Jimin","V","Jungkook"];
